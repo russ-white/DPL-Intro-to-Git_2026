@@ -1,0 +1,4 @@
+Russ White, FNR, 2026
+Version control is what happens when you know what you're doing, and save with commit history.
+A repository is a folder, with git initiated to enable version control
+Website!
